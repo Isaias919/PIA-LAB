@@ -1,7 +1,7 @@
 # PIA-LAB
 
 ## Descripción General del Repositorio:
-jendjendjen ejdnejnd
+Recopilacion de todas las herramientas que utilizamos en el curso del Laboratorio de programacion para ciberseguridad mediante la utilizacion de scripting de python, bash y powershell para la realizacion de labores especificacdas por el encargado de la materia
 
 ## Contenido:
 
