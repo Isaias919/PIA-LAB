@@ -1,4 +1,4 @@
-# PIA-LAB
+# Producto integrador de aprendizaje
 
 ## Descripción General del Repositorio:
 Recopilacion de todas las herramientas que utilizamos en el curso del Laboratorio de programacion para ciberseguridad mediante la utilizacion de scripting de python, bash y powershell para la realizacion de labores especificacdas por el encargado de la materia
@@ -46,3 +46,5 @@ Recopilacion de todas las herramientas que utilizamos en el curso del Laboratori
 **Descripcion:** Utilizacion del scripting para programar tareas en distintos sistemas operativos para que se realice tal cantidad de veces y este condicionado a tales especificaciones
 
 ## Datos:
+* **Nombre:** Isais Emiliano Colunga Santos
+* **Matricula**: 1804974
