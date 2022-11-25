@@ -7,7 +7,7 @@ Recopilacion de todas las herramientas que utilizamos en el curso del Laboratori
 
 * [**Manejo de APIs**](https://google.com)
 
-**Descripcion:** Uso de servicios procedentes de un sitio Web que son utilizables por el usuario con la finalidad de realizar cierto tipo de labores.
+**Descripcion:** Servicios utilizables que proceden de un sitio Web que permiten su uso gatuito o paga para el usuario con la finalidad de realizar cierto tipo de labores.
 
 * [**Scripting en PowerShell**](https://google.com)
 
