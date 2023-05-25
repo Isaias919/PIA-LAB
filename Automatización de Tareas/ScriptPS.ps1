@@ -6,7 +6,7 @@
     [Parameter(Mandatory)] [string]$dstion
      )
 
-#ruta: C:\Users\braya\Desktop\SEND_SYSINFO.ps1
+#ruta: C:\Users\isaias\Desktop\SEND_SYSINFO.ps1
 $tarea = New-ScheduledTaskAction PowerShell.exe -Argument $ruta
 $trigger = New-ScheduledTaskTrigger -Once -At $hora
 Register-ScheduledTask -Action $tarea -Trigger $trigger -TaskPath $Tskpa -TaskName $Tskna -Description $dstion
