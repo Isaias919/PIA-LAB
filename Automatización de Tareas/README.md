@@ -7,4 +7,4 @@ Aprender a realizar y programar los scripts realizados, ya sea utilizando Bash e
 Se realizo un script de PS en el cual su funcion fue hacer que otro script de PS se activara a una hora en especifico, siendo el resultado final que este enviara un correo electronico procedente de dicho script
 
 ## Scripts:
-* [ScriptPS.ps1](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/main/Automatizaci%C3%B3n%20de%20Tareas/ScriptPS.ps1)
+* [ScriptPS.ps1](https://github.com/Isaias919/PIA-LAB/blob/main/Automatizaci%C3%B3n%20de%20Tareas/ScriptPS.ps1)
