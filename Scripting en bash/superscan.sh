@@ -1,4 +1,4 @@
-#!\bin\bash /home/afterdark/Documentos
+#!\bin\bash 
 #
 #Isaias Emiliano Colunga Santos
 #24-05-2023
