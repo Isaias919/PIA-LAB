@@ -37,7 +37,7 @@ Recopilacion de todas las herramientas que utilizamos en el curso del Laboratori
 
 **Descripcion:** Utilizacion de diversas funcionalidades mediante scripting en python para el analisis del estado e informacion de los puertos del sistema y otros dispositivos conectados a su red. 
 
-* [**Envió de Correos**]([https://google.com](https://github.com/Isaias919/PIA-LAB/blob/main/Envio%20de%20correos/README.md)
+* [**Envió de Correos**](https://github.com/Isaias919/PIA-LAB/blob/main/Envio%20de%20correos/README.md)
 
 **Descripcion:** Utilizacion del scripting en python para simular el servicio de envio de correos mediante la colocacion manual del formato del mismo
 
