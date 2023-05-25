@@ -7,4 +7,4 @@ Conocer las funciones del protocolo de transferencia de archivos FTP para poster
 Se realizo un script en Python donde se establecio una conexion con un servidor (Una IP de Debian en este caso), recordando haber configurado en ella una cuenta para posteriormente realizar la subida de un archivo desde nuestro equipo y ver ese archivos desde el lado del servidor.
 
 ## Scripts:
-* [Script_FTP.py](https://github.com/Lavso-Itro/PIA-LAB-PC/blob/main/FTP/Script_FTP.py)
+* [Script_FTP.py](https://github.com/Isaias919/PIA-LAB/blob/main/FTP/Script_ftp.py)
